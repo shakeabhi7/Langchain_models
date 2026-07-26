@@ -1,2 +1,1 @@
-git commit -m "first commit"
-git push -u origin main
+This repository is for the practice of langchain.
