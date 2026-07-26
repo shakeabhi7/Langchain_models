@@ -35,3 +35,12 @@ pydantic
 
 #pymongo
 pymongo
+
+#langchain_community
+langchain_community
+
+#pypdf
+pypdf
+
+#beautifulsoup4
+beautifulsoup4
