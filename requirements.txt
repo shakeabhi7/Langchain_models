@@ -47,3 +47,9 @@ beautifulsoup4
 
 #text splitter
 langchain-text-splitters
+
+#lancgchain_experimental
+langchain-experimental
+
+#langchain pdf loader
+langchain-pymupdf4llm
