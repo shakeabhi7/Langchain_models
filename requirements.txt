@@ -44,3 +44,6 @@ pypdf
 
 #beautifulsoup4
 beautifulsoup4
+
+#text splitter
+langchain-text-splitters
