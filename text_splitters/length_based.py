@@ -1,7 +1,8 @@
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_pymupdf4llm import PyMuPDF4LLMLoader
 
-loader = PyMuPDF4LLMLoader('dl-curriculum.pdf')
+loader = PyMuPDF4LLMLoader('dl-curriculum.pdf') # add any pdf
+
 
 docs = loader.load()
 
