@@ -53,3 +53,6 @@ langchain-experimental
 
 #langchain pdf loader
 langchain-pymupdf4llm
+
+#langchain_chroma
+langchain-chroma
